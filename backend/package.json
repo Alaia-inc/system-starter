@@ -52,7 +52,7 @@
     "eslint-plugin-unused-imports": "^4.2.0",
     "nodemon": "^3.1.10",
     "prettier": "^3.6.2",
-    "prisma": "^5.12.1",
+    "prisma": "^7.0.1",
     "tsc-alias": "^1.8.16",
     "tsc-files": "^1.1.4",
     "typescript": "^5.6.2",
