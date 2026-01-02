@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
-    "@types/node": "^18.19.50",
+    "@types/node": "^24.10.1",
     "concurrently": "^9.2.1",
     "dotenv": "^16.4.5",
     "eslint-config-prettier": "^10.1.8",
