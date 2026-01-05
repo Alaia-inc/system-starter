@@ -23,7 +23,7 @@
     "@prisma/client": "^5.11.0",
     "@trpc/client": "^10.45.2",
     "@trpc/next": "^10.45.2",
-    "@trpc/react-query": "^10.45.2",
+    "@trpc/react-query": "^11.8.1",
     "@trpc/server": "^11.7.2",
     "axios": "^1.12.0",
     "cookies-next": "^4.1.1",
