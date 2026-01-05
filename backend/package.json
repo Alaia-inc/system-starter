@@ -58,7 +58,7 @@
     "tsc-alias": "^1.8.16",
     "tsc-files": "^1.1.4",
     "typescript": "^5.6.2",
-    "vite-node": "^3.2.4",
+    "vite-node": "^5.2.0",
     "vite-tsconfig-paths": "^5.1.4"
   }
 }
