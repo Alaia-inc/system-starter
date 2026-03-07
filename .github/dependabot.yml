@@ -6,6 +6,13 @@ updates:
       interval: "weekly"
       timezone: "Asia/Tokyo"
       time: "09:00"
+    groups:
+      backend-non-breaking:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
     
   - package-ecosystem: "npm"
     directory: "/frontend"
@@ -13,3 +20,10 @@ updates:
       interval: "weekly"
       timezone: "Asia/Tokyo"
       time: "09:00"
+    groups:
+      frontend-non-breaking:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
