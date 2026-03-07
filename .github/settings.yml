@@ -1,6 +1,11 @@
 # .github/settings.yml
 # Probot Settings Appによって読み込まれるリポジトリ設定
 
+repository:
+  allow_squash_merge: false
+  allow_merge_commit: false
+  allow_rebase_merge: true
+
 branches:
   - name: main
     protection:
